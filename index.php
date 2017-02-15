@@ -21,4 +21,5 @@ $source_img = 'Penguins.jpg';
 $destination_img = 'destination .jpg';
 
 $d = compress($source_img, $destination_img, 60);
+echo 'hi';
 ?>
